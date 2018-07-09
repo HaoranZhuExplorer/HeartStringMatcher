@@ -1,5 +1,5 @@
 # HeartStringMatcher
-Overview: A C++ program that can print string and change their positions to form a shape of heart. Special gift for my girlfriend.
+Overview: A C++ program that can print string and change their positions to form a shape of heart.
 
 Referred articles:
 https://zhuanlan.zhihu.com/p/28844697?utm_medium=social&utm_source=wechat_session
