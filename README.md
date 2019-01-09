@@ -6,7 +6,7 @@ https://zhuanlan.zhihu.com/p/28844697?utm_medium=social&utm_source=wechat_sessio
 I read code from the website and use it to for my creation.
 
 Input & Output:
-	Input: Two poems that I want to send to my girl.
+	Input: Two poems.
 	Output: The string forms the shape of a heart.
 
 
